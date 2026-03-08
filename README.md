@@ -14,5 +14,6 @@ This project explores adaptive neural networks that adjust their computation bas
 - Reinforcement Learning (yet to decide if we're gonna do it or not)
 
 
-use this command on cmd or vscode terminal to install requirements:
+## Use this command on CMD or VScode terminal to install requirements:
+
 pip install -r requirements.txt
