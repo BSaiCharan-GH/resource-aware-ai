@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# virtual environments
+.env
+.venv
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ML model weights
+*.pt
+*.pth
+*.ckpt
+
+# logs
+logs/
+wandb/
+
+# VS Code settings
+.vscode/
