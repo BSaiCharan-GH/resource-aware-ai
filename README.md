@@ -13,7 +13,14 @@ This project explores adaptive neural networks that adjust their computation bas
 - Vision Transformers
 - Reinforcement Learning (yet to decide if we're gonna do it or not)
 
+## To clone the repository:
+
+git clone https://github.com/BSaiCharan-GH/resource-aware-ai.git
+Enter the project folder: cd resource-aware-ai
+
 
 ## Use this command on CMD or VScode terminal to install requirements:
 
 pip install -r requirements.txt
+
+
