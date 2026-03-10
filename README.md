@@ -8,12 +8,19 @@ The goal is to show that a single model can run efficiently across very differen
 ## Tech stack:
 
 Language: Python 3.10+
+
 Deep Learning: PyTorch, timm
+
 Resource Monitoring: pynvml, psutil, torch.cuda
+
 Data: torchvision
+
 Analysis: pandas, matplotlib, scikit-learn
+
 Environment: Conda
+
 Dev Tools: VS Code, Git, GitHub
+
 RL (future)
 
 ## To clone the repository:
