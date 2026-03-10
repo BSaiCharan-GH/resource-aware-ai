@@ -26,6 +26,7 @@ RL (future)
 ## To clone the repository:
 
 git clone https://github.com/BSaiCharan-GH/resource-aware-ai.git
+
 Enter the project folder: cd resource-aware-ai
 
 
